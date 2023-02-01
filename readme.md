@@ -8,3 +8,4 @@
 4. [객체](./ch4-object.md)
 5. [함수](./ch5-function.md)
 6. [배열](./ch6-array.md)
+7. [인터페이스](./ch7-interface.md)
