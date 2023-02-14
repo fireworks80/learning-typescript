@@ -11,3 +11,4 @@
 7. [인터페이스](./ch7-interface.md)
 8. [클래스](./ch8-class.md)
 9. [타입 제한자](./ch9-type-constraint.md)
+10. [제네릭](./ch10-generic.md)
